@@ -1,0 +1,74 @@
+{
+    "categories": [
+        {
+            "categoria": "Herbicidas",
+            "itemDisplay": [
+                {
+                    "code": "1",
+                    "descripcion": "ProductoA",
+                    "descripcionLarga": "Acerca del Producto A",
+                    "image": 2130837716,
+                    "origen": "Italia"
+                },
+                {
+                    "code": "2",
+                    "descripcion": "ProductoB",
+                    "descripcionLarga": "Acerca del Producto B",
+                    "image": 2130837719,
+                    "origen": "Italia"
+                },
+                {
+                    "code": "3",
+                    "descripcion": "ProductoC",
+                    "descripcionLarga": "Acerca del Producto C",
+                    "image": 2130837720,
+                    "origen": "Italia"
+                }
+            ]
+        },
+        {
+            "categoria": "Insecticidas",
+            "itemDisplay": [
+                {
+                    "code": "4",
+                    "descripcion": "ProductoA",
+                    "descripcionLarga": "Acerca del Producto A",
+                    "image": 2130837721,
+                    "origen": "Italia"
+                },
+                {
+                    "code": "5",
+                    "descripcion": "ProductoB",
+                    "descripcionLarga": "Acerca del Producto B",
+                    "image": 2130837722,
+                    "origen": "Italia"
+                },
+                {
+                    "code": "6",
+                    "descripcion": "ProductoC",
+                    "descripcionLarga": "Acerca del Producto C",
+                    "image": 2130837723,
+                    "origen": "Italia"
+                }
+            ]
+        }
+    ],
+    "image": 0,
+    "mail": "agroganmartinez@hotmail.com",
+    "mainData": [
+        {
+            "code": "1",
+            "descripcion": "Nuevos Productos",
+            "descripcionLarga": "Entre ellos tenemos: PROD 1, PROD 2, PROD 3",
+            "image": 2130837724
+        },
+        {
+            "code": "2",
+            "descripcion": "Promociones en Inventario",
+            "descripcionLarga": "Promociones tales como: PROD 1, PROD 2, PROD 3",
+            "image": 2130837725
+        }
+    ],
+    "nombre": "Agroganadera Martínez S.A.",
+    "ubicacion": "David, Chiriquí"
+}

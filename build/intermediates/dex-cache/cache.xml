@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\classes-685357e334fec00ed7c82c208b8a4f25e92f8c0c.jar" />
+    </item>
+    <item
+        jar="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="744c49c02a27569cc4cc049685d3649e4ef439f2">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\classes-af8275ea97c8dd08f6226106ac2f84f609446cef.jar" />
+    </item>
+    <item
+        jar="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\classes-6cd18e02ca236d69ab8c8703fff3d229f8a5fcd1.jar" />
+    </item>
+    <item
+        jar="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="77f9593d979f4347344be233bd0d888315f79517">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\classes-146b809cd9b0f512925f2e388aa796bd6bee2654.jar" />
+    </item>
+    <item
+        jar="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6d9ed9a288364688e7fcf6704776284dac1eb42e">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\classes-92d27535765e9153ad7de499b38dbbdeaa478d59.jar" />
+    </item>
+    <item
+        jar="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fd76d95678a6b2b8a49bb8a9fb5bcef7aedb70e7">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\classes-96ea297cc156450d17cb1aae88324bf466f478ec.jar" />
+    </item>
+    <item
+        jar="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="031e8b3ab2df4ab43b1017f84417d7e10dfbb8d2">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\classes-2b1aa1785ff883d7ec0fb5d6475c8c67e2acd898.jar" />
+    </item>
+    <item
+        jar="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9c9bdb4b2497465a6cf7d5e8f57c5298f828a380">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\classes-9b6bb2c7b57ae22655c568a4c66213d5e2b6b3a6.jar" />
+    </item>
+    <item
+        jar="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\classes-cfaa1fb3a92a8d0248e253564df9b3284d574cbf.jar" />
+    </item>
+    <item
+        jar="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\exploded-aar\com.android.support\palette-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="167a5721524b1d2810d1b41ed76eff1d53a0e82b">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\classes-ff09fd34cbb521aa4eaa872fd841487b41b643e8.jar" />
+    </item>
+    <item
+        jar="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\internal_impl-22.2.0-66d71df15ff5c83bc4bf84784e7b82e6a022be87.jar" />
+    </item>
+    <item
+        jar="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\exploded-aar\com.github.rey5137\material\1.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0040be6592cbfbb19a2c1e90a759278795ed2280">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\classes-0e9654abd55c23ba21052ca53efcbe33e7410e10.jar" />
+    </item>
+    <item
+        jar="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="724ce977487ab3a215d4d2eb47d8dccd9f30013f">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\classes-53aa2daf110d4a45d22181e4dc05a715f156c6c0.jar" />
+    </item>
+    <item
+        jar="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0c3e81d3eb86b86d194b5cdb6a4de78203f6f7fd">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\classes-b1d0a6ed23c752059899ce30825dcdff54d70fc5.jar" />
+    </item>
+    <item
+        jar="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea34579b1be157cd792376362157e9c54ebb4cd7">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\classes-fefba9cb2f176ff3780194a50811c7fe330d791f.jar" />
+    </item>
+    <item
+        jar="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\classes-8f2a7f84a2d3b1cb825491bce7a97cc6c5dc269c.jar" />
+    </item>
+    <item
+        jar="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\classes-6c0ba79deb430aeed0e39b2280a27ea273a37d2b.jar" />
+    </item>
+    <item
+        jar="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="27775d59b16610ac76f1b83693fedd9520396332">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\classes-25e5c61137140d45098da7351ad48506e677a455.jar" />
+    </item>
+    <item
+        jar="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\internal_impl-23.1.0-69fb10f3f8607f066ca7486fd84948ef00040a78.jar" />
+    </item>
+    <item
+        jar="C:\Users\B5191\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\1.7.2\112366d8158749e25532ebce162232c6e0fb20a5\gson-1.7.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="112366d8158749e25532ebce162232c6e0fb20a5">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\gson-1.7.2-197940772276f597e754be8d6380cd493ef1e488.jar" />
+    </item>
+    <item
+        jar="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="eb576427887e497cd958a475475f9206e38dc314">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\classes-a809981df5cf2106681e647e0342acd082a05462.jar" />
+    </item>
+    <item
+        jar="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9aedc597d74c6d77258ce5236e9abff0c3cc65e3">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\classes-ef1cd9e9ce97d748496ae9ac6cc45735e4958176.jar" />
+    </item>
+    <item
+        jar="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\classes-4bb34d567ff34b23afdd2bc9c3ee83c24144f186.jar" />
+    </item>
+    <item
+        jar="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="697679619b00837e3d09e9988a2e1e2a9009d502">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\classes-2d9327444946996f4243105e4147cc8db9426a43.jar" />
+    </item>
+    <item
+        jar="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0a1897426566e408a5c20a3d931f77d89771d07f">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\classes-fe58fb159fe8b91cdabb32841452b1706d8aae6b.jar" />
+    </item>
+    <item
+        jar="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="58adcfbe2c8393765e84c5489d01bba6a5159eb2">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\classes-118910bd72737cf876afc986f6fe0ee72ad96e5f.jar" />
+    </item>
+    <item
+        jar="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b000ecceb9877fefcdc7ab1959ff03df91551656">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\classes-e506decadc8277cc993837a30b9390f0826f7bf6.jar" />
+    </item>
+    <item
+        jar="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="af6ee25641df3142059c0828517aa7ee6eba08d6">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\classes-268ba1d6744ce8de149e835d7c31baae3b0d47ce.jar" />
+    </item>
+    <item
+        jar="C:\Users\B5191\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\butterknife-7.0.1-6bdb6e17ee92a5fd7ca928b7c97d5f6d88b7ec11.jar" />
+    </item>
+    <item
+        jar="C:\Users\B5191\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\library-2.4.0-ef12538dd07a8250bcd2aa21912bc656de9fd1a8.jar" />
+    </item>
+    <item
+        jar="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="71eda10e33212e44245524b5087366ff8d805825">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\classes-27f14b1146ad4e84cce77ba87cd0c06bfcc9a40d.jar" />
+    </item>
+    <item
+        jar="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\classes-76b4e6bcb26aa1a1dae6e794dcac5374e2231805.jar" />
+    </item>
+    <item
+        jar="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\classes-8ff806293c2ed820fd8a1ce16a09d2c8af6c0155.jar" />
+    </item>
+    <item
+        jar="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cb4af597d079ffdc0984a3ec2c03cbf6a1b9f869">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\classes-9b284696b8e8410a934e2a61d926c3229cc3e0a6.jar" />
+    </item>
+    <item
+        jar="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b8df1b1e51fe14b0e89b3845dc2e215a024a09f">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\classes-332d3b0d4e6d0364db530626059940f79871debc.jar" />
+    </item>
+    <item
+        jar="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0af4f577b4a21eb9be2a7f52e33b077b67e6d9f8">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\classes-a184ec4d86dc15e7a64a7ead315da8eeb4f34ac6.jar" />
+    </item>
+    <item
+        jar="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\exploded-aar\com.melnykov\floatingactionbutton\1.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c6ebb7d087d1a30bf84356bd2aecf85309fc024">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\classes-e0803dcab00e3416245b9797730dcd2e941e1877.jar" />
+    </item>
+    <item
+        jar="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2c6fcd6267cbac6509a2e72a61127534a1d616cf">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\classes-f48280089dd741508fdd41a819c7d7bffdd1258d.jar" />
+    </item>
+    <item
+        jar="C:\Users\B5191\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\support-annotations-23.1.0-687d61afa385b8844d877c0705ddab3ff0b7904c.jar" />
+    </item>
+    <item
+        jar="C:\Users\B5191\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="C:\SISTEMAS\Personal\TuAgrogan\app\build\intermediates\pre-dexed\release\glide-3.6.1-ed00226886055670fd55204b72e3513a2633ce2e.jar" />
+    </item>
+
+</items>

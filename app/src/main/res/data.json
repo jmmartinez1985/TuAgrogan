@@ -1,0 +1,60 @@
+{
+    "categories": [
+        {
+            "categoria": "Categoria A",
+            "itemDisplay": [
+                {
+                    "code": "item1",
+                    "descripcion": "ProductoA",
+                    "descripcionLarga": "Acerca del Producto A",
+                    "image": 2130837716,
+                    "origen": "Italia"
+                },
+                {
+                    "code": "item2",
+                    "descripcion": "ProductoB",
+                    "descripcionLarga": "Acerca del Producto B",
+                    "image": 2130837719,
+                    "origen": "Italia"
+                },
+                {
+                    "code": "item3",
+                    "descripcion": "ProductoC",
+                    "descripcionLarga": "Acerca del Producto C",
+                    "image": 2130837720,
+                    "origen": "Italia"
+                }
+            ]
+        },
+        {
+            "categoria": "Categoria B",
+            "itemDisplay": [
+                {
+                    "code": "item1",
+                    "descripcion": "ProductoA",
+                    "descripcionLarga": "Acerca del Producto A",
+                    "image": 2130837716,
+                    "origen": "Italia"
+                },
+                {
+                    "code": "item2",
+                    "descripcion": "ProductoB",
+                    "descripcionLarga": "Acerca del Producto B",
+                    "image": 2130837719,
+                    "origen": "Italia"
+                },
+                {
+                    "code": "item3",
+                    "descripcion": "ProductoC",
+                    "descripcionLarga": "Acerca del Producto C",
+                    "image": 2130837720,
+                    "origen": "Italia"
+                }
+            ]
+        }
+    ],
+    "image": 0,
+    "mail": "agroganmartinez@hotmail.com",
+    "nombre": "Agroganadera Martínez S.A.",
+    "ubicacion": "David, Chiriquí"
+}
